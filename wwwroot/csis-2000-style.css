@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	margin:30px 50px;
+}
+
+h1 {border-bottom:1px solid #CCC; padding-bottom:5px;}
+a img {padding:10px; margin:10px; border:1px solid #CCC;}
+li { margin:10px 0; font-size:20px; }
