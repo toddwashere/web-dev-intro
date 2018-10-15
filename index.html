@@ -19,6 +19,7 @@
 <p>Feel free to email me if you have any questions, comments, good links or if you are currently developing a website.</p>
 <p><a href="images/web-every-60-seconds.png"><img src="images/thumb-web-every-60-seconds.jpg" height="200" alt="web-60-seconds" /></a><a href="images/26-things-to-note-before-you-develop-a-website.jpg"><img src="images/thumb-26-things-to-note-before-you-develop-a-website.jpg" width="200" height="200" /></a><a href="images/loading-time-lrg.jpg"><img src="images/thumb-loading-time-lrg.jpg" width="200" height="200" /></a></p>
 <ol>
+  <li><a href="https://docs.google.com/presentation/d/1c7HQgT_NFrnpb3FQN-GNnfLwcRwLhcIKC-ycfB04vzg/edit?usp=sharing">Presentation Here</a></li>
   <li><a href="game/index.html">Arrow Keys penguin</a></li>
   <li><a href="http://jsfiddle.net/5wKfF/15/">Tic Tac Toe</a></li>
   <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a></li>
